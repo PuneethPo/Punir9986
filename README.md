@@ -1,2 +1,0 @@
-# Machine Learning is one of the powerful techniques in the software which helps predict future data patterns. It is powerful and became evident because it uses math and can't disapprove/decline when output comes out of mathematical process.     
-# Deep Learning is the subest of ML using tensorflow and keras deep libraries helps to understand the data in depth. It uses the concept of neuron/perceptron similar like how our brain functions.   
